@@ -48,8 +48,7 @@ export async function getServerSideProps(context) {
 }
 
 DashboardPage.propTypes = {
-  bankAccount: PropTypes.object,
-  transactions: PropTypes.object
+  bankAccount: PropTypes.object
 };
 
 export default DashboardPage;

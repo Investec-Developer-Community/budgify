@@ -133,8 +133,7 @@ const Dashboard = ({ bankAccount, transactions }) => {
 }
 
 Dashboard.propTypes = {
-  bankAccount: PropTypes.object,
-  transactions: PropTypes.object
+  bankAccount: PropTypes.object
 };
 
 export default Dashboard;
