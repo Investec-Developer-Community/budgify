@@ -1,6 +1,6 @@
 # Budgify
 
-A web app showcasing how Prporgrammable Banking can be used to gain insight into your spending habits and help you budget.
+A web app showcasing how Programmable Banking can be used to gain insight into your spending habits and help you budget.
 
 ![Dashboard](/docs/dashboard.png)
 
