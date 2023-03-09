@@ -1,6 +1,6 @@
-# Budgify - budget-web-app
+# Budgify
 
-A web app showcasing how Prporgrammable Bbanking can be used to gain insight into your spending habits and help you budget.
+A web app showcasing how Prporgrammable Banking can be used to gain insight into your spending habits and help you budget.
 
 ![Dashboard](/docs/dashboard.png)
 
@@ -19,7 +19,7 @@ Specifically, your client ID, client secret and API key. You can learn more abou
 
 ## Getting Started
 
-You must fork this repository to your Github account. This allows you to easily stay up to date with new changes to the widget without losing your local customizations to it. Once you have forked the repo, please clone it.
+You must fork this repository to your Github account. This allows you to easily stay up to date with new changes to the app without losing your local customizations to it. Once you have forked the repo, please clone it.
 
 Open your terminal and run the following:
 
@@ -46,6 +46,7 @@ Possible additions:
 
 ```
 - Ability to select a specific date to filter transactions by
+- Graphs which display the different categories
 ```
 
 Pull requests and changes are welcome.
