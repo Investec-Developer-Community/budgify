@@ -46,6 +46,7 @@ Possible additions:
 
 ```
 - Ability to select a specific date to filter transactions by
+- Select my different accounts and see the transactions per account
 - Graphs which display the different categories
 ```
 
