@@ -48,6 +48,7 @@ Possible additions:
 - Ability to select a specific date to filter transactions by
 - Select my different accounts and see the transactions per account
 - Graphs which display the different categories
+- Allow a user to edit/create/select criterias
 ```
 
 Pull requests and changes are welcome.
