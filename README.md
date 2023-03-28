@@ -24,7 +24,7 @@ You must fork this repository to your Github account. This allows you to easily 
 Open your terminal and run the following:
 
 ```bash
-git clone https://github.com/dominicsanto/budgify.git
+git clone https://github.com/programmable-banking-community/budgify
 Rename the `.env.local.example` to `.env.local`
 ```
 
